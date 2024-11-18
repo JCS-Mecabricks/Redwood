@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_right",
+  "textures": {
+    "bottom": "redwood-variants:block/redwood_door_bottom",
+    "top": "redwood-variants:block/redwood_door_top"
+  }
+}

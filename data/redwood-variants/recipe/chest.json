@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": "redwood-variants:redwood_planks"
+  },
+  "pattern": [
+    "EEE",
+    "E E",
+    "EEE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:chest"
+  }
+}

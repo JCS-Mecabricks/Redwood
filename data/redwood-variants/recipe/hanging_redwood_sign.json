@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:chain",
+    "E": "redwood-variants:redwood_log"
+  },
+  "pattern": [
+    "A A",
+    "EEE",
+    "EEE"
+  ],
+  "result": {
+    "count": 6,
+    "id": "redwood-variants:hanging_redwood_sign"
+  }
+}

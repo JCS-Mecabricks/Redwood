@@ -1,0 +1,43 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_chain": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:chain"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_redwood_log": {
+      "conditions": {
+        "items": [
+          {
+            "items": "redwood-variants:redwood_log"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "redwood-variants:hanging_redwood_sign"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_redwood_log",
+      "has_chain"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "redwood-variants:hanging_redwood_sign"
+    ]
+  }
+}

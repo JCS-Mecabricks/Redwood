@@ -1,0 +1,15 @@
+{
+  "values": [
+    "redwood-variants:redwood_stairs",
+    "redwood-variants:redwood_pressure_plate",
+    "redwood-variants:redwood_button",
+    "redwood-variants:redwood_door",
+    "redwood-variants:redwood_wood",
+    "redwood-variants:redwood_log",
+    "redwood-variants:redwood_fence",
+    "redwood-variants:redwood_fence_gate",
+    "redwood-variants:redwood_slab",
+    "redwood-variants:redwood_planks",
+    "redwood-variants:redwood_trapdoor"
+  ]
+}
