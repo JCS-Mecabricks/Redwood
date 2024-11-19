@@ -15,7 +15,7 @@ Here is an image of the redwood wood types and trees
 ![Screenshot 2024-11-18 160851](https://github.com/user-attachments/assets/d37321b6-7abf-4b1a-b98d-f99849916cef)
 
 There is a Mega Variant of the Redwood Tree which is just a little bit taller. The regular variants generate in the Taiga and Snowy Taiga while
-the Mega Variant generates in the Mega Pine and Old Growth Taiga
+the Mega Variant generates in the Mega Pine and Old Growth Taiga. The Woods can be crafted into tools too.
 
 This mod depends on TerraformersMC and obviously fabric api,
 make sure to dowload the TerraformersMC version that matches my mod.
