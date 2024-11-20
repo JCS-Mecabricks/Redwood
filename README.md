@@ -14,6 +14,9 @@ Here is an image of the redwood wood types and trees
 
 ![Screenshot 2024-11-18 160851](https://github.com/user-attachments/assets/d37321b6-7abf-4b1a-b98d-f99849916cef)
 
+![Screenshot_2024-11-18_172635-removebg-preview](https://github.com/user-attachments/assets/4db657f5-f9a5-4d26-8572-e44a2a6573e1)
+
+
 There is a Mega Variant of the Redwood Tree which is just a little bit taller. The regular variants generate in the Taiga and Snowy Taiga while
 the Mega Variant generates in the Mega Pine and Old Growth Taiga. The Woods can be crafted into tools too.
 
