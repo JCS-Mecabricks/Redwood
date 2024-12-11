@@ -25,4 +25,7 @@ make sure to dowload the TerraformersMC version that matches my mod.
 
 Link: https://github.com/TerraformersMC/Terraform/releases
 
+Lastly, I will mostly update my mods in modrinth: https://modrinth.com/user/JCS-Mecabricks
+If you have any discussions, ask them in my discussions tab: https://github.com/JCS-Mecabricks/JCS-Mecabricks/discussions
+
 ## Enjoy!
