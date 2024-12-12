@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column_horizontal",
-  "textures": {
-    "end": "redwood-variants:block/redwood_log_top",
-    "side": "redwood-variants:block/redwood_log"
-  }
-}
