@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "redwood-variants:block/redwood_sapling"
+    }
+  }
+}

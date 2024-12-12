@@ -1,0 +1,22 @@
+{
+  "item.redwood-variants.redwood_button": "Redwood Button",
+  "item.redwood-variants.redwood_door": "Redwood Door",
+  "item.redwood-variants.redwood_fence": "Redwood Fence",
+  "item.redwood-variants.redwood_fence_gate": "Redwood Fence Gate",
+  "item.redwood-variants.redwood_leaves": "Redwood Leaves",
+  "item.redwood-variants.redwood_log": "Redwood Log",
+  "item.redwood-variants.redwood_planks": "Redwood Planks",
+  "item.redwood-variants.redwood_pressure_plate": "Redwood Pressure Plate",
+  "item.redwood-variants.redwood_sapling": "Redwood Sapling",
+  "item.redwood-variants.redwood_slab": "Redwood Slab",
+  "item.redwood-variants.redwood_stairs": "Redwood Stairs",
+  "item.redwood-variants.redwood_trapdoor": "Redwood Trapdoor",
+  "item.redwood-variants.redwood_wood": "Redwood Wood",
+  "item.redwood-variants.hanging_redwood_sign": "Redwood Hanging Sign",
+  "item.redwood-variants.redwood_boat_boat": "Redwood Boat",
+  "item.redwood-variants.redwood_chest_boat_chest_boat": "Redwood Chest Boat",
+  "item.redwood-variants.redwood_sign": "Redwood Sign",
+  "itemGroup.redwood-variants.redwood_group": "Redwood",
+  "entity.redwood-variants.redwood_chest_boat_chest_boat": "Chest Boat",
+  "biome.redwood-variants.redwood_biome": "Redwood Biome"
+}
